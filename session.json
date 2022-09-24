@@ -49,14 +49,14 @@
       "deviceSignature": "onA1bFzgvafLj2FAK/u8MuafqhwXOciX3KpON3DoNXvjh2IUYfgs+SW8oIBQG0lZVoCZCYxRs+RxM9eXlb8ihg=="
     },
     "me": {
-      "id": "917059102517:22@s.whatsapp.net",
+      "id": "917439623713:22@s.whatsapp.net",
       "verifiedName": "",
       "name": "F"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "917059102517:22@s.whatsapp.net",
+          "name": "917439623713:22@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -345,7 +345,7 @@
       }
     },
     "sessions": {
-      "917059102517.0": {
+      "917439623713.0": {
         "_sessions": {
           "BbojK3HXE/WgNzczUkYONebwDdXLXltRBiyv1D/FQqlr": {
             "registrationId": 1211401998,
@@ -388,7 +388,7 @@
         },
         "version": "v1"
       },
-      "917059102517.0": {
+      "919064723724.0": {
         "_sessions": {
           "BeUsW8LGFIDmZeEQXJUO1R9jBY0NbaDCM+JdRgUF8SZ0": {
             "registrationId": 226586316,
@@ -431,7 +431,7 @@
         },
         "version": "v1"
       },
-      "917059102517.0": {
+      "919433829618.0": {
         "_sessions": {
           "Bdefqgmi+ruKTAwcQOdzSzTutCzJiQQGLXO3onVIxqMh": {
             "registrationId": 1225918671,
@@ -479,7 +479,7 @@
       "AAAAAF+z": {
         "keyData": "hlo8U/NpKfomnvbNXVfKZXlqBp9Iw95Qas9RDoQHGFE=",
         "fingerprint": {
-          "rawId": 7059102517,
+          "rawId": 847578459,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -540,7 +540,7 @@
           }
         }
       ],
-      "120363041608668565@g.us::917059102517::0": [
+      "120363041608668565@g.us::919433829618::0": [
         {
           "senderKeyId": 1440971970,
           "senderChainKey": {
